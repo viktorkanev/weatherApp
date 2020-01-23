@@ -1,3 +1,3 @@
 # weatherApp Live DEMO
 
-http://kanev-weather-app.herokuapp.com/
+https://kanev-weather-app.herokuapp.com/
